@@ -9,12 +9,17 @@
 ##### Analysis
 - I performed the analysis goving different variations of information (i.e outcomes based on launch dates, outcomes based on category's & outcomes based on goals etc.) 
 
+ ![Image of Parent Cateory Outcomes](https://github.com/LManago/Kickstart-Analysis/blob/master/Parent%20Category%20Outcomes.png)
+
+
 ##### Challenges
 - Some challenges that I faced were changing the x and y axis on the graph to compare the goal ranges and the percentage for the columns. I overcame the challenges by using google to search a way to change the x & y axis on the graph.
 
 ## Results
 
-- The conclusion I drew about theaters from the graph based on launch date was one kickstaters were more successful when they were started in May. I also learned kickstaters were more likely to faile when launched at the beginning or end of the year.
+- The conclusion I drew about theaters from the graph based on launch date was one kickstaters were more successful when they were started in May. I also learned kickstaters were more likely to failed when launched at the beginning or end of the year.
+
+![Image of Outcomes Based on Launch Date](https://github.com/LManago/Kickstart-Analysis/blob/master/Outcomes%20Based%20on%20Launch%20Date.png)
 
 - The analysis that I concluded from the **Outcome based on Goals** sheet was that goals were more likely to become successful when they ranged from 1,000 - 4,999.
 
